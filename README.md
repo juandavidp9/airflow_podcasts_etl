@@ -1,4 +1,4 @@
-# Airflow Podcasts ETL
+# Airflow Podcasts Pipeline
 
 In this project, we created a data pipeline using Airflow for downloading podcasts from https://www.marketplace.org/ 
 The pipeline will download podcast episodes and load them into a SQLite database.
