@@ -2,7 +2,7 @@
 
 In this project, a data pipeline was created using Airflow for downloading podcasts from https://www.marketplace.org/ 
 
-The pipeline will download podcast episodes and load them into a SQLite database. The Python code is located in the folder /dags
+The pipeline will download podcast episodes and load them into a SQLite database (episodes.db). The Python code is located in the folder /dags
 
 ### Pipeline Overview
 
